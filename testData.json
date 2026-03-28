@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Ahmed Hassan",
+      "country": "Andorra",
+      "gender": "Male",
+      "product": "Jordan 6 Rings"
+    },
+    {
+      "name": "Sara Ali",
+      "country": "Andorra",
+      "gender": "Female",
+      "product": "Jordan 6 Rings"
+    }
+  ]
+}

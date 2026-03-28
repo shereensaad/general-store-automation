@@ -1,0 +1,4 @@
+spec: src/tests/**/*.spec.js
+timeout: 120000
+reporter: spec
+exit: true
