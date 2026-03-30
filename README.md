@@ -51,7 +51,7 @@ appium driver install uiautomator2
 
 ```bash
 # 1 – Clone
-git clone https://github.com/<your-username>/general-store-automation.git
+git clone https://github.com/shereensaad/general-store-automation.git
 cd general-store-automation
 
 # 2 – Install dependencies
